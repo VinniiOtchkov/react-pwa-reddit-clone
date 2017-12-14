@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  outline: none;
+  border: none;
+}
+
+.btny{
+  margin-left: 7%;
+
+}
+
+.commenty {
+  margin-left: 8%;
+}
+
+.formy {
+  margin-left: 4%;
+}
+
+.btn {
+  outline: none;
+  border: none;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+}
